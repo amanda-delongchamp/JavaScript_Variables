@@ -10,4 +10,7 @@ var age = 41;
 
 // Exercise 2
 
+let fullName = `${firstName} ${lastName}`;
+console.log(fullName);
+
 // Exercise 3
